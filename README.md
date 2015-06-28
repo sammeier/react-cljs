@@ -1,5 +1,10 @@
 # react-cljs
+
 A ClojureScript wrapper for React.
+
+There are a number of React-like libraries for ClojureScript (e.g., Om, Reagent, Rum). Many even use React under the covers to do some work.
+
+By contrast, this library simply exposes an interface to React in a ClojureScript-friendly way. It is for developers who, like myself, want to use React directly from a ClojureScript application.
 
 ### Add dependency:
 
