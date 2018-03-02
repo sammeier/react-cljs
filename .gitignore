@@ -1,2 +1,8 @@
-.lein-repl-history
-pom.xml*
+/.idea/
+/.lein-repl-history
+/.project/common
+/.rsync.log
+/pom.xml*
+/react.iml
+/src/static/webpack-deps.*
+/target/
